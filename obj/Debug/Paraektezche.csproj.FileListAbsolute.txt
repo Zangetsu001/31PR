@@ -1,0 +1,7 @@
+D:\215\Вчина Дмитрий\Paraektezche\obj\Debug\Paraektezche.csproj.AssemblyReference.cache
+D:\215\Вчина Дмитрий\Paraektezche\obj\Debug\Paraektezche.csproj.CoreCompileInputs.cache
+D:\215\Вчина Дмитрий\Paraektezche\bin\Debug\Paraektezche.exe.config
+D:\215\Вчина Дмитрий\Paraektezche\bin\Debug\Paraektezche.exe
+D:\215\Вчина Дмитрий\Paraektezche\bin\Debug\Paraektezche.pdb
+D:\215\Вчина Дмитрий\Paraektezche\obj\Debug\Paraektezche.exe
+D:\215\Вчина Дмитрий\Paraektezche\obj\Debug\Paraektezche.pdb
